@@ -1,9 +1,8 @@
 {
-  "homepage": "http://ishakantak.github.io/isha_portfolio",
+  "homepage": "https://ishakantak.github.io/isha_portfolio/",
   "name": "isha_portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ishakantak.github.io/isha_portfolio/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
